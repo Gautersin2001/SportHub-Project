@@ -1,0 +1,217 @@
+@media(max-width:1024px) {
+    .SportNavigation {
+        width: 68%;
+    }
+
+    .SiteNavigation {
+        width: 85%;
+    }
+
+    .DevelopmentPromotionWrap {
+        width: 36%;
+    }
+
+    .InsideFatherBlock {
+        width: 45%;
+    }
+
+    .TrainNews {
+        font-size: 16px;
+    }
+
+    .NavigationBlock {
+        width: 81%;
+    }
+
+    .TrainWrap {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .TrainWrap {
+        width: 60%;
+    }
+
+    .TrainWrap div {
+        margin-bottom: 2%;
+    }
+}
+
+@media(max-width:768px) {
+    .SportNavigation {
+        width: 96%;
+    }
+
+    .TrainWrap {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .ImgBlock {
+        width: 60%;
+    }
+
+    .DevelopmentPromotionWrap {
+        width: 47%;
+    }
+
+    .SportBlockClass {
+        width: 100%;
+    }
+
+    .FollowBlock {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .InputButton {
+        width: 80%;
+    }
+
+    .InputClass {
+        width: 80%;
+    }
+
+    .NavigationBlock {
+        width: 100%;
+    }
+
+    .InsideFatherBlock {
+        width: auto;
+    }
+
+    .NavigationBlock {
+        justify-content: space-between;
+    }
+    .CloneBlock {
+        right: 30px;
+    }
+}
+@media(max-width:586px){
+    .SportNavigation {
+        display: flex;
+        flex-wrap: wrap;
+        width: 72%;
+    }
+}
+
+@media(max-width:426px) {
+    .DayNewsText {
+        font-size: 25px;
+    }
+
+    .SportNavigation {
+        display: flex;
+        flex-wrap: wrap;
+        width: 72%;
+    }
+
+    .SportBlockClass {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .SportBlockWrap {
+        width: 90%;
+        margin-bottom: 2%;
+    }
+    .TrainComment {
+        font-size: 25px;
+    }
+    .FatherBlockSeven {
+        display: flex;
+        flex-direction: column;
+    }
+    .ImgBlock {
+        width: 100%;
+    }
+    .InputBlock {
+        width: 100%;
+    }
+    .InputClass {
+        width: 70%;
+    }
+    .InputButton {
+        width: 70%;
+    }
+    .FooterNavigation {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    .AboutProject {
+        padding: 20px;
+    }
+    .CommunicationClass {
+        padding: 20px;
+    }
+    .GmailRootClass {
+        padding: 10px;
+    }
+    .IconsClassWrap {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .DevelopmentPromotion {
+        display: flex;
+        flex-direction: column;
+    }
+    .DevelopmentPromotionWrap {
+        width: 85%;
+        margin-top: 3%;
+        align-items: center;
+    }
+    .InterviewWith {
+        font-size: 16px;
+    }
+    .InterviewExtrim {
+        font-size: 30px;
+    }
+}
+
+@media(max-width:376px){
+    .SportNavigation {
+        width: 82%;
+    }
+    .SportNavigation a{
+        padding: 7px;
+    }
+    .FatherBlockTwo {
+        height: 6rem;
+    }
+    .DevelopmentPromotionWrap {
+        width: 95%;
+    }
+    .IconsClassWrap {
+        width: 62%;
+    }
+    .InterviewExtrim {
+        font-size: 30px;
+    }
+    .TrainWrap div {
+        margin-top: 3%;
+    }
+    
+}
+
+@media(max-width:320px){
+    .DayNewsText {
+        font-size: 20px;
+    }
+    .TrainComment {
+        font-size: 18px;
+    }
+    .DevelopmentPromotion {
+        width: 90%;
+    }
+    .DevelopmentPromotionWrap {
+        width: 100%;
+    }
+    .IconsClassWrap {
+        width: 74%;
+    }
+    .InterviewWith {
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz@8..144&family=Rubik&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.FatherBlockFive {
+  width: 100%;
+  margin-top: 5%;
+  background-image: url(./../../img/Motorcyclist.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 27rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ForFans {
+  font-family: "Manrope";
+  font-style: normal;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.TrainComment {
+  font-family: "Roboto Flex";
+  font-style: normal;
+  font-size: 36px;
+  color: #FFFFFF;
+  font-weight: bold;
+}/*# sourceMappingURL=LastNewsBlock.css.map */

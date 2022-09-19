@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz@8..144&family=Rubik&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.FatherBlockEight {
+    width: 100%;
+    margin-top: 8%;
+    height: 30rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Interview {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.InterviewExtrim {
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-size: 36px;
+    color: #FFFFFF;
+}
+
+.InterviewWith {
+    padding-top: 2%;
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.6);
+}

@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz@8..144&family=Rubik&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.FatherBlockSeven {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.ImgBlock {
+    width: 35%;
+}
+
+.SocialMedia {
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.IconsBlock {
+    background-color: #F01B0D;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 3%;
+    height: 9rem;
+    padding: 0 7%;
+}
+
+.InputBlock {
+    width: 35%;
+}
+
+.FollowBlock {
+    background-color: #000000;
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 9rem;
+}
+
+.InputClass {
+    background-color: #000000;
+    border: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    width: 44%;
+
+    &::placeholder {
+        color: #FFFFFF;
+    }
+}
+
+.InputButton {
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-size: 12px;
+    background-color: #F01B0D;
+    color: #FFFFFF;
+    border-radius: 100px;
+    height: 2rem;
+    width: 32%;
+}

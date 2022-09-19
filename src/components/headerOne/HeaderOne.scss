@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz@8..144&family=Rubik&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.FatherClassOne {
+    width: 100%;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(255, 255, 255, 0) 50%, rgba(0, 0, 0, 1) 100%), url(./../../img/HeaderBackground.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 26rem;
+}
+
+.NavigationBlock {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+.SiteNavigation {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    padding-top: 2%;
+}
+
+.SiteNavigationText {
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+.NavigationTextLink {
+    text-decoration: none;
+}
+
+.DayNews {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.ExtrimClass {
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-size: 12px;
+    color: #FFFFFF;
+    align-items: center;
+}
+
+.DayNewsText {
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+
+.CloneBlock {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    z-index: 10;
+    position:absolute;
+    top: 20px;
+
+    a {
+        padding: 10px;
+        background-color: rgba(0, 0, 0, 0.21);
+    }
+}
+
+.InsideMenu {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.InsideFatherBlock {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 30%;
+
+}

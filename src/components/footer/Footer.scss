@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz@8..144&family=Rubik&display=swap');
+
+* {
+    margin: 0;
+    padding: 0%;
+}
+
+.FatherBlockNine {
+    width: 100%;
+    background-color: #F01B0D;
+}
+
+.FooterBlock {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 3%;
+}
+
+.FooterNavigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+}
+
+.SportHubClass {
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.AboutProject {
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.CommunicationClass {
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.PromotionClass {
+    display: flex;
+    flex-direction: column;
+}
+
+.CompanyPromotion {
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.GmailRootClass {
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+    padding-top: 1%;
+}
+
+.PromotionLink {
+    text-decoration: none;
+}
+
+.IconsClass {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.IconsClassWrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+}
+
+.IconLinkClass {
+    text-decoration: none;
+}
+
+.DPClas {
+    width: 100%;
+}
+
+.DevelopmentPromotion {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 3%;
+    padding-bottom: 3%;
+}
+
+.SportHublastClass {
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+
+.DevelopmentCompany {
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-size: 12px;
+    color: #FFFFFF;
+    padding-top: 1%;
+}
+
+.DevelopmentPromotionWrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 24%;
+}
+

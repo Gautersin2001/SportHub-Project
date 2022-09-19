@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz@8..144&family=Rubik&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.FatherBlockTwo {
+  width: 100%;
+  background-color: #F01B0D;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.SportNavigation {
+  display: flex;
+  justify-content: space-around;
+  width: 56%;
+}
+
+.SportNavigationText {
+  font-family: "Roboto Flex";
+  font-style: normal;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+
+.SportNavigationLink {
+  text-decoration: none;
+}/*# sourceMappingURL=HeaderTwo.css.map */

@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz@8..144&family=Rubik&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.FatherBlockFour {
+  width: 100%;
+  margin-top: 6%;
+  display: flex;
+  justify-content: center;
+}
+
+.TrainWrap {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+  text-align: center;
+}
+
+.TrainLink {
+  text-decoration: none;
+}
+
+.TrainName {
+  font-family: "Roboto Flex";
+  font-style: normal;
+  font-size: 15px;
+  color: #000000;
+  font-weight: bold;
+}
+
+.TrainStatus {
+  font-family: "Roboto Flex";
+  font-style: normal;
+  font-size: 11px;
+  color: #000000;
+  text-transform: uppercase;
+  margin-top: 2%;
+}
+
+.TrainNews {
+  font-family: "Roboto Flex";
+  font-style: normal;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.6);
+  margin-top: 4%;
+}/*# sourceMappingURL=Trainers.css.map */
